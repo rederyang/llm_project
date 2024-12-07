@@ -1,0 +1,32 @@
+{
+    "circuit_id": "circuit_36",
+    "expression": "not (A or B) or (not B)",
+    "inputs": [
+        "A",
+        "B"
+    ],
+    "depth": 2,
+    "bbox": [
+        [
+            0,
+            0,
+            110,
+            59,
+            "or"
+        ],
+        [
+            133,
+            43,
+            206,
+            102,
+            "or"
+        ],
+        [
+            0,
+            86,
+            105,
+            146,
+            "not"
+        ]
+    ]
+}

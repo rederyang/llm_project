@@ -1,0 +1,33 @@
+{
+    "circuit_id": "circuit_157",
+    "expression": "(B and C) or (B and A)",
+    "inputs": [
+        "A",
+        "B",
+        "C"
+    ],
+    "depth": 2,
+    "bbox": [
+        [
+            0,
+            0,
+            108,
+            60,
+            "and"
+        ],
+        [
+            0,
+            115,
+            108,
+            175,
+            "and"
+        ],
+        [
+            126,
+            58,
+            199,
+            117,
+            "or"
+        ]
+    ]
+}

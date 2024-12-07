@@ -1,0 +1,32 @@
+{
+    "circuit_id": "circuit_8",
+    "expression": "not (A and B) and (A xor B)",
+    "inputs": [
+        "A",
+        "B"
+    ],
+    "depth": 2,
+    "bbox": [
+        [
+            0,
+            0,
+            111,
+            60,
+            "and"
+        ],
+        [
+            126,
+            57,
+            207,
+            117,
+            "and"
+        ],
+        [
+            0,
+            115,
+            105,
+            174,
+            "xor"
+        ]
+    ]
+}

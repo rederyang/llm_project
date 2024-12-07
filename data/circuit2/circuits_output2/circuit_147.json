@@ -1,0 +1,33 @@
+{
+    "circuit_id": "circuit_147",
+    "expression": "(B xor C) xor (A xor B)",
+    "inputs": [
+        "A",
+        "B",
+        "C"
+    ],
+    "depth": 2,
+    "bbox": [
+        [
+            0,
+            0,
+            105,
+            59,
+            "xor"
+        ],
+        [
+            113,
+            58,
+            201,
+            117,
+            "xor"
+        ],
+        [
+            0,
+            115,
+            105,
+            174,
+            "xor"
+        ]
+    ]
+}

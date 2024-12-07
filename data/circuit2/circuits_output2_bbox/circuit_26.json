@@ -1,0 +1,32 @@
+{
+    "circuit_id": "circuit_26",
+    "expression": "(B or A) xor (A and B)",
+    "inputs": [
+        "A",
+        "B"
+    ],
+    "depth": 2,
+    "bbox": [
+        [
+            0,
+            115,
+            110,
+            175,
+            "and"
+        ],
+        [
+            0,
+            0,
+            105,
+            59,
+            "or"
+        ],
+        [
+            113,
+            58,
+            201,
+            117,
+            "xor"
+        ]
+    ]
+}

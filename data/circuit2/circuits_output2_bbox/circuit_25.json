@@ -1,0 +1,32 @@
+{
+    "circuit_id": "circuit_25",
+    "expression": "not (A and B) xor (not A)",
+    "inputs": [
+        "A",
+        "B"
+    ],
+    "depth": 2,
+    "bbox": [
+        [
+            0,
+            86,
+            105,
+            146,
+            "not"
+        ],
+        [
+            118,
+            44,
+            206,
+            103,
+            "xor"
+        ],
+        [
+            0,
+            0,
+            125,
+            60,
+            "notand"
+        ]
+    ]
+}
